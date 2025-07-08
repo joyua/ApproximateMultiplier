@@ -59,6 +59,39 @@ All 8×8 input combinations (2¹⁶) evaluated for:
 
 ---
 
+## 📚 Reference
+
+---
+
+## 📚 References
+
+[1] Yi Guo, Heming Sun, Li Guo and Shinji Kimura,  
+“Low-Cost Approximate Multiplier Design using Probability-Driven Inexact Compressors,”  
+IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2018.
+
+[2] Tongxin Yang, Tomoaki Ukezono and Toshinori Sato,  
+“Low-Power and High-Speed Approximate Multiplier Design with a Tree Compressor,”  
+IEEE 35th International Conference on Computer Design (ICCD), 2017.
+
+[3] Issa Qiqieh, Rishad Shafik, Ghaith Tarawneh, Danil Sokolov and Alex Yakovlev,  
+“Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression,”  
+Design, Automation and Test in Europe (DATE), 2017.
+
+[4] C. Liu, J. Han, and F. Lombardi,  
+“A Low-Power, High-Performance Approximate Multiplier with Configurable Partial Error Recovery,”  
+Design, Automation & Test in Europe (DATE), 2014.
+
+[5] J. Liang, J. Han, and F. Lombardi,  
+“New Metrics for the Reliability of Approximate and Probabilistic Adders,”  
+IEEE Transactions on Computers, vol. 62, no. 9, pp. 1760–1771, 2013.
+
+[6] Z. Yang, J. Han, and F. Lombardi,  
+“Approximate Compressors for Error Resilient Multiplier Design,”  
+IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS), pp. 183–186, 2015.
+
+
+---
+
 ## 🧑‍💻 Author
 
 Designed by **Changhyun Jo**, Inha University EE  
